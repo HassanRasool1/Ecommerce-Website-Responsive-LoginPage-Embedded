@@ -1,6 +1,6 @@
 # Ecommerce-Website-Responsive-LoginPage-Embedded
 
-<h1>Hero</h1>
+
 ![hero](https://github.com/HassanRasool1/Ecommerce-Website-Responsive-LoginPage-Embedded/assets/109318661/e6758493-3317-45d7-a00f-b87a434e2e6b)
 
 
